@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PizzaManagement Razor Asp Net Core.props" />
+</Project>
